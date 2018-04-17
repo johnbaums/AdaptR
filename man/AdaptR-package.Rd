@@ -9,7 +9,7 @@ Overview of the functions in the AdaptR package
 }
 
 \description{
-AdaptR is a dynamic modelling technique for incorporating the capacity for genetic adaptation in projecting changes in the distributions of species over time. The \pkg{AdaptR} package currently provides basic functions to prepare the imput files, run the model, and generate some simple summary plots of the outputs. Future updates will improve the flexibility of data inputs and results processing. 
+AdaptR is a dynamic modelling technique for incorporating the capacity for genetic adaptation in projecting changes in the distributions of species over time. The \pkg{AdaptR} package currently provides basic functions to prepare the input files, run the model, and generate some simple summary plots of the outputs. Future updates will improve the flexibility of data inputs and results processing. 
 }
 \details{
 The functions in the \pkg{AdaptR} package provide the tools necessary for running the AdaptR model, including functions to prepare the environmental data. Major functionality includes:
